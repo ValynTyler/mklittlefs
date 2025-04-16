@@ -14,3 +14,6 @@ build
 
 # binaries
 mklittlefs
+
+# direnv
+.direnv/
